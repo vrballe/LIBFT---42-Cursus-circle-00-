@@ -78,9 +78,3 @@ char	*ft_itoa(int n)
 	}
 	return (makestr(str, num, len, trigger));
 }
-/* int main()
-{
-	printf("%s\n", ft_itoa(0));
-	printf("%s\n", ft_itoa(9));
-	printf("%s\n", ft_itoa(10));
-} */
